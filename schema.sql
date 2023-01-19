@@ -39,7 +39,7 @@ CREATE TABLE vets (
 
 CREATE TABLE specializations (
     species_id  INT,
-    vets_id     INT,
+    vets_id     INT
 );
 
 CREATE TABLE visits (
